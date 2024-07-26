@@ -20,10 +20,6 @@ class HomeActivity : AppCompatActivity() {
         setContentView(binding.root)
         startFragment(QuranFragment())
         initListeners()
-
-
-
-
         }
 
     private fun initListeners() {
